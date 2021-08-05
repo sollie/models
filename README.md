@@ -1,2 +1,3 @@
-# stl
-Various STL files of stuff I've made
+# STL
+
+This repo contains various STL files of stuff I've made
