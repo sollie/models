@@ -1,3 +1,3 @@
-# STL
+# Models
 
-This repo contains various STL files of stuff I've made
+This repo contains various STL/3MF files of stuff I've made
